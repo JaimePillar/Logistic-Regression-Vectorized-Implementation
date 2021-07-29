@@ -1,3 +1,3 @@
-# LogisticRegression_Vectorized_Implementation
+# Logistic Regression Vectorized Implementation
 
-Concepts are inspired from Prof. Andrew Ng's machine learning course and Siraj Raval's Videos.
+Os conceitos são inspirados no curso de machine learning do Prof. Andrew Ng e nos vídeos de Siraj Raval.
